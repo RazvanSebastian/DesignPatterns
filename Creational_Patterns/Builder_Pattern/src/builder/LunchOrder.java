@@ -65,10 +65,4 @@ public class LunchOrder {
 		return meat;
 	}
 
-	@Override
-	public String toString() {
-		return "LunchOrder [bread=" + bread + ", condiments=" + condiments + ", dressing=" + dressing + ", meat=" + meat
-				+ "]";
-	}
-
 }
